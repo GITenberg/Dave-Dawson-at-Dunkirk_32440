@@ -1,0 +1,35 @@
+_repo: Dave-Dawson-at-Dunkirk_32440
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32440-h/images/cover.png
+creator:
+  author:
+    agent_name: Bowen, Robert Sidney
+    aliases:
+    - Richard, James Robert
+    - Bowen, Robert Sydney
+    - Bowen, R. Sidney
+    birthdate: 1900
+    deathdate: 1977
+    gutenberg_agent_id: '35796'
+    url: http://www.gutenberg.org/2009/agents/35796
+description: This is the holy grail for fans of classic wartime action-adventure.
+  In the first volume of the abidingly popular War Adventure series featuring Dave
+  Dawson, an American who volunteers for service in the British Royal Air Force, our
+  intrepid hero tests his mettle in a pivotal battle in northern France.
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2010-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32440'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Dunkirk, Battle of, Dunkerque, France, 1940 -- Juvenile fiction'
+- !lcsh 'World War, 1939-1945 -- Juvenile fiction'
+title: Dave Dawson at Dunkirk
+url: http://www.gutenberg.org/ebooks/32440
